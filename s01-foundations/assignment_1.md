@@ -26,7 +26,7 @@ I consider ransomware the most dangerous type for a Pakistani small or medium-si
 
 ## Task B1 Evidence that my VM is isolated
 
-![Kali commands for ip, route and a network scan](screenshots_assignment_1\taskb1.jpg)
+![Kali commands for ip, route and a network scan](screenshots_assignment_1/taskb1.jpg)
 
 I made the kali network adapter hostonly (switched from initial NAT) for isolation made metasploitable hostonly as well. The network scan at the end shows that the other host only machine can be discovered but the network is isolated from internet.
 
@@ -36,7 +36,7 @@ These commands run in a disposable test directory. Keep the terminal visible for
 
 ### Creating file
 
-![Creating file](screenshots_assignment_1\creating_file.jpg)
+![Creating file](screenshots_assignment_1/creating_file.jpg)
 
 ### Using `chmod u+x`
 
@@ -44,8 +44,8 @@ These commands run in a disposable test directory. Keep the terminal visible for
 
 ### Using `000`  remove all permissions for user, groups and others users
 
-![using chmod 000](screenshots_assignment_1\chmod_000.jpg)
+![using chmod 000](screenshots_assignment_1/chmod_000.jpg)
 
 ### Restoring read
 
-![Restoring read](screenshots_assignment_1\restore_read.jpg)
+![Restoring read](screenshots_assignment_1/restore_read.jpg)

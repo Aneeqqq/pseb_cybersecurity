@@ -40,7 +40,7 @@ These commands run in a disposable test directory. Keep the terminal visible for
 
 ### Using `chmod u+x`
 
-![chmod u+x to make file executeable](screenshots_assignment_1\chmod_u+x.jpg)
+![chmod u+x to make file executeable](screenshots_assignment_1/chmod_u+x.jpg)
 
 ### Using `000`  remove all permissions for user, groups and others users
 
